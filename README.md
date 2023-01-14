@@ -1,5 +1,7 @@
 # Simple Flutter client consuming a remote API
 
+Simple Flutter app that is making a request to a RestFul API service.
+Using a stateless listview widget.
 
 
 ---
