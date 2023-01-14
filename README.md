@@ -7,10 +7,10 @@
 <img src="https://user-images.githubusercontent.com/43736590/212496201-9f696387-22e6-4ac5-8ef7-c7b393c94ce9.png" width="200" height="450" />
 
 ### Windows App
-![flutter-windows](https://user-images.githubusercontent.com/43736590/212496207-1fdd6f49-1260-44c7-a94e-e78dd68a74a2.png)
+<img src="https://user-images.githubusercontent.com/43736590/212496207-1fdd6f49-1260-44c7-a94e-e78dd68a74a2.png" width="270" height="400" />
 
 ### Web (Chrome)
-![flutter-web](https://user-images.githubusercontent.com/43736590/212496204-ec956a75-8d26-44e2-bd79-7a165b17a6e0.png)
+<img src="https://user-images.githubusercontent.com/43736590/212496204-ec956a75-8d26-44e2-bd79-7a165b17a6e0.png" width="250" height="465" />
 
 ---
 ## Getting Started
