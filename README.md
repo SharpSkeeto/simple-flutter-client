@@ -1,8 +1,8 @@
 # Simple Flutter client consuming a remote API
 
-Simple Flutter app that is making a request to a RestFul API service.
-Using a stateless listview widget.
-
+This is a simple Flutter app that makes a request to a RESTful API service using a stateless ListView widget.
+  
+  
 
 ---
 ### Mobile (Android)
