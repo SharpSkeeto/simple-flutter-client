@@ -17,7 +17,7 @@ This is a simple Flutter app that makes a request to a RESTful API service using
 ---
 ## Getting Started
 
-This project is a starting point for a Flutter application.Cancel changes
+This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
